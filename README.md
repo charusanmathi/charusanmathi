@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charusanmathi
+- 👋 Hi, I’m Charulatha Sanmathi
 - 👀 I’m interested in telling stories hidden in Data
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on AI powered projects
